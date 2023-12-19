@@ -10,7 +10,6 @@ I'm Frontend developer from <b>Phuket Thailand.</b>
 - <b>"Technical skill + Creative skill = Programming"</b>
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -38,5 +37,4 @@ I'm Frontend developer from <b>Phuket Thailand.</b>
 
 ---
 ### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=naiJamesz&border_radius=15)](https://git.io/streak-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naiJamesz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naiJamesz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
