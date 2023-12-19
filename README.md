@@ -39,4 +39,4 @@ I'm Frontend developer from <b>Phuket Thailand.</b>
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naijamesz&border_radius=15)](https://git.io/streak-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naijamesz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naiJamesz&border_radius=15)](https://git.io/streak-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naiJamesz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
