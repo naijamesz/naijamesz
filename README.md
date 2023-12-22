@@ -54,6 +54,8 @@
 ### :fire: My Stats :
 </br>
 
+<a href="https://app.daily.dev/naijamesz"><img src="https://api.daily.dev/devcards/d1b6c6efd25840548353397b2b60688d.png?r=0gy" width="200" alt="James Thanawat's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naiJamesz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+
 
