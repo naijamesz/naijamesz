@@ -9,14 +9,15 @@
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> Frontend developer from <b>🏝️Phuket / Thailand.</b>
 
 <p style = "text-align: center;"><strong>
-- :dart: I’m a self-taught learning developer, who loves exploring different technologies about frontend projects with use React ecosystem.
+- :dart: I’m a self-taught learning developer, who loves exploring different technologies about frontend projects with the use React ecosystem. already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career. I believe that using open source or even co-developing it can greatly improve your skills and experience as a web developer and artificial intelligence is a tool for developers like us.
+
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
-- 🧑🏻‍💻 In my free time I study new technologies and develop from Docment, Udemy & create creative projects. 
+- 🧑🏻‍💻 In my free time I study new technologies and develop from Documents, Udemy & create creative projects. 
 
 <p style = "text-align: center;"><strong>
-- ⌨️  "Technical skill + Creative skill = Programming"
+- ⌨️  "Thinkless, Just do it."
 </p>
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
