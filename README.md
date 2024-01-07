@@ -9,7 +9,7 @@
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> Frontend developer from <b>🏝️Phuket / Thailand.</b>
 
 <p style = "text-align: center;">
-- :dart: I’m a self-taught learning developer, I love exploring different technologies about frontend projects with the use React ecosystem. I have a 2 years experience working as an IT Support after graduate in 2019. I'm already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career. I believe that using open source or even co-developing it can greatly improve your skills and experience as a web developer and artificial intelligence is a tool for developers like us.
+- :dart: I’m a self-taught learning developer, I love exploring different technologies about frontend projects with the use React ecosystem. I have a 2 years experience working as an IT Support after graduated in 2019. I'm already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career. I believe that using open source or even co-developing it can greatly improve your skills and experience as a web developer and artificial intelligence is a tool for developers like us.
 
 </p>
 
