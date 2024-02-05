@@ -4,7 +4,7 @@
 
 
 
-<p align="center"><img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="300" heigh="300"/></p>
+<p align="center"><img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="300" heigh="300" control="play"/></p>
 
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> Frontend developer from <b>🏝️Phuket / Thailand.</b>
 
