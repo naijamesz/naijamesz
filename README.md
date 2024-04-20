@@ -15,7 +15,7 @@
 - 🧑🏻‍💻 In my free time I study new technologies and develop from Documents, Udemy & create creative projects. 
 </p>
 <p style = "text-align: center;"><strong>
-- ⌨️  "Thinkless, Just do it."
+- ⌨️  "Don't think, Just do it."
 </strong>
 </p>
 
