@@ -3,14 +3,12 @@
 
 
 
-
 <p align="center"><img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="250" heigh="250"/></p>
 
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> Frontend developer from <b>🏝️Phuket / Thailand.</b>
 
 <p style = "text-align: center;">
-- :dart: I’m a self-taught learning developer, I love exploring different technologies about frontend projects with the use React ecosystem. I have a 2 years experience working as an IT Support after graduated in 2019. I'm already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career. I believe that using open source or even co-developing it can greatly improve your skills and experience as a web developer and artificial intelligence is a tool for developers like us.
-
+- :dart: I’m a self-taught learning developer, I love exploring different technologies about frontend projects with the use React ecosystem. I have a 2 years experience working as an IT Support after graduated in 2019. I'm already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career.
 </p>
 
 <p style = "text-align: center;">
@@ -24,6 +22,11 @@
 <p style = "text-align: center;">
 - 📚<strong>Education</strong> : Bachelor of Business Administration (Business Computer) from Phuket Rajabhat University.
 </p>
+
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+### :fire: Leetcode Stats :
+![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)
+</br>
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 ### :hammer_and_wrench: Languages and Tools :
@@ -70,11 +73,9 @@
 </div>
 
 
-![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
-### :fire: Leetcode Stats :
-![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)
-</br>
+
+
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 </br>
