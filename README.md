@@ -25,6 +25,7 @@
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 ### :fire: Leetcode Stats :
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)
 </br>
 
@@ -64,13 +65,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material-UI" alt="Material-UI" width="50" height="50"/>&nbsp;
   </br>
-  </br>
+<!--   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Fig" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCODE" width="50" height="50">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="50" height="50">&nbsp;
-  <br>
+  <br> -->
 </div>
+<!-- <div class="tech-icon-row">
+<ul>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616073951/Net%20Ninja%20Pro/svg/icons/html-logo_lfmuid.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074126/Net%20Ninja%20Pro/svg/icons/js-logo_gvosxg.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074122/Net%20Ninja%20Pro/svg/icons/flutter-logo_gl5iyt.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074128/Net%20Ninja%20Pro/svg/icons/react-logo_q2iuni.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074131/Net%20Ninja%20Pro/svg/icons/svelte-logo_lgisl0.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074127/Net%20Ninja%20Pro/svg/icons/node-logo_runwwy.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074133/Net%20Ninja%20Pro/svg/icons/typescript-logo_oldkpo.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074129/Net%20Ninja%20Pro/svg/icons/sapper-logo_pqplkk.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074124/Net%20Ninja%20Pro/svg/icons/gatsby-logo_chwupz.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074125/Net%20Ninja%20Pro/svg/icons/graphql-logo_xfmygj.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074123/Net%20Ninja%20Pro/svg/icons/framer-logo_joymgk.svg"></li>
+<li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616074121/Net%20Ninja%20Pro/svg/icons/firebase-logo_kkewft.svg"></li>
+</ul>
+</div> -->
 
 
 
