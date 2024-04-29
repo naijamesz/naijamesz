@@ -24,13 +24,22 @@
 </p>
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
-### :fire: Leetcode Stats :
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)
+### :fire: Leetcode Stats :  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
+
+<p align="center"><img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="550" heigh="350"/></p>
+
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)-->
+<!--   <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  </p> -->
 </br>
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 ### :hammer_and_wrench: Languages and Tools :
+
 
 </br>
 <div>
