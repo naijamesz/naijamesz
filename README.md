@@ -5,6 +5,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="250" heigh="250"/></p>
 
+<!--<div style="margin-left: 90px">-->
+  
+
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> Frontend developer from <b>🏝️Phuket / Thailand.</b>
 
 <p style = "text-align: center;">
@@ -22,12 +25,22 @@
 <p style = "text-align: center;">
 - 📚<strong>Education</strong> : Bachelor of Business Administration (Business Computer) from Phuket Rajabhat University.
 </p>
+<!-- </div> -->
+
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
-### :fire: Leetcode Stats :  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
 
-<p align="center"><img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="550" heigh="350"/></p>
+
+  
+### :fire: Leetcode Stats : <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
+</br>
+<img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="450" heigh="250"/>
+<!--<div align="center">-->
+<!--</div>-->
+
+<!-- <p align="center"><img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="550" heigh="350"/></p> -->
+
 
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto)-->
 <!--   <p align="center">
@@ -36,6 +49,7 @@
   <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   </p> -->
 </br>
+
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 ### :hammer_and_wrench: Languages and Tools :
@@ -82,6 +96,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="50" height="50">&nbsp;
   <br> -->
 </div>
+
 <!-- <div class="tech-icon-row">
 <ul>
 <li><img src="https://res.cloudinary.com/net-ninja/image/upload/v1616073951/Net%20Ninja%20Pro/svg/icons/html-logo_lfmuid.svg"></li>
