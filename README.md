@@ -25,7 +25,7 @@
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
-### :fire: Leetcode Stats :  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
+### :fire: Leetcode Stats :  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
 
 <p align="center"><img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="550" heigh="350"/></p>
 
