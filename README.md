@@ -34,7 +34,8 @@ I have a 2 years experience working as an IT Support after graduated in 2019. I'
 
 
   
-### :fire: Leetcode Stats : <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
+### :fire: Leetcode Stats : 
+<img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
 </br>
 <img src="https://leetcard.jacoblin.cool/naijamesz?theme=wtf&font=Roboto" width="450" heigh="250"/>
 <!--<div align="center">-->
