@@ -11,8 +11,8 @@
 ### I'm <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/> Web developer from <b>🏝️Phuket / Thailand.</b>
 
 <p>
-- :dart: I’m a self-taught learning developer, I love exploring different technologies about frontend projects with the use React ecosystem and passionest to improve my Back-end skill & knownledge around server side Node.js (Express.js/Fastify.js/Nest.js) and Django framework </br>
-I have a 2 years experience working as an IT Support after graduated in 2019. I'm already eager to learn new things from technology updates and news. and all ready to be part of a team and collaborate using Git version control to embrace new technological updates and enhance my development career.
+- :dart:A self-taught web developer with a solid foundation in business administration, proficient in JavaScript/TypeScript for front-end development using React and Next.js. Experienced in server-side development with Node.js (Express.js, Nest.js, Fastify.js) and Django for backend solutions. Familiar with emerging technologies such as Hono.js and Elysia.js within the Bun.js runtime environment. Strong understanding of network fundamentals from IT support experience and expertise in Git version control for efficient collaboration.
+Passionate about software architecture and scalable project structures, actively seeking opportunities to work in team environments and gain hands-on experience with industry-standard development workflows. Eager to explore real-world project lifecycles, stakeholder collaboration, requirements analysis, database design, and problem-solving methodologies. Dedicated to continuous learning, professional growth, and staying updated with the latest technological advancements. Ready to contribute to a dynamic team and enhance my development career through collaboration and innovation.
 </p>
 
 <p>
